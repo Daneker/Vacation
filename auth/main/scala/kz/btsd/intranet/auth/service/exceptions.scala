@@ -1,0 +1,3 @@
+package kz.btsd.intranet.auth.service
+
+class InvalidLdapCredentialsException extends RuntimeException
